@@ -1,0 +1,25 @@
+body {
+    background-color: mediumaquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    border: 1px solid #000;
+}
+
+div.menu {
+    display: none;
+}
+
+@media only screen and (max-width: 500px) and (min-width: 250px) {
+    body {
+        background: orangered;
+        font-size: 2rem;
+    }
+
+    div.menu{
+        display: none;
+    }
+
+
+}
