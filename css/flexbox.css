@@ -1,0 +1,82 @@
+body {
+    background-color: darkblue;
+}
+
+.container {
+    display: flex;
+    /* height: 300px; */
+    background-color: cornflowerblue;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 10px;
+}
+
+h1{
+    margin: 10px;
+    padding: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: end;
+    text-shadow: 2px 2px rgb(151, 151, 148);
+    background-color: white;
+}
+
+p {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.head {
+    background-color: grey;
+    margin: 10px;
+    padding: 10px;
+}
+
+.item-2 {
+    /* height: 40%; */
+    background-color: hotpink;
+    margin: 5px;
+    padding: 5px;
+}
+.item-3 {
+    /* height: 50%; */
+    background-color: rgb(129, 40, 192);
+    margin: 5px;
+    padding: 5px;
+}
+.item-4 {
+    /* height: 60%; */
+    background-color: lawngreen;
+    margin: 5px;
+    padding: 5px;
+}
+.item-5 {
+    /* height: 20%; */
+    background-color: lightseagreen;
+    margin: 5px;
+    padding: 5px;
+}
+.item-6 {
+    /* height: 30%; */
+    background-color: maroon;
+    margin: 5px;
+    padding: 5px;
+}
+.item-7 {
+    /* height: 65%; */
+    background-color: mediumvioletred;
+    margin: 5px;
+    padding: 5px;
+}
+.item-8 {
+    /* height: 80%; */
+    background-color: rgb(31, 31, 211);
+    margin: 5px;
+    padding: 5px;
+}
+.item-9 {
+    /* height: 30%; */
+    background-color: rosybrown;
+    margin: 5px;
+    padding: 5px;
+}
